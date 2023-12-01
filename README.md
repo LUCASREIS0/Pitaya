@@ -44,6 +44,8 @@ Os **valores** da Pitang orientam todas as ações. Nosso foco é engajar, desen
 
 Este projeto foi desenvolvido durante a residência no **Porto Digital**, na fase de formação **RiseUp 2023.2**. A criação desse sistema integrou aprendizado e prática de conceitos de Front-End, como HTML, CSS e JavaScript.
 
+Se deseja saber mais sobre o Porto Digital e suas iniciativas, visite o [site oficial do Porto Digital](https://www.portodigital.org/) para obter mais informações e se inspirar com os projetos e ideias inovadoras que surgem dessa comunidade.
+
 ---
 
 ## 🎯 Objetivo
