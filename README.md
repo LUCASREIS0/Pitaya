@@ -82,7 +82,7 @@ Para executar o código, siga estes passos:
 
 ## 🔗 Versão Hospedada
 
-Confira o projeto hospedado em: [Pitaya - OCR](link_para_a_versão_hospedada) (Atualize o link, se necessário)
+Confira o projeto hospedado em: [Pitaya - OCR] [link_para_a_versão_hospedada](https://pitaya.vercel.app/)
 
 ---
 
